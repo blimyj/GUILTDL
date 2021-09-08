@@ -7,8 +7,8 @@ To run the program:
     2. Run command: `python gui.py`
 
 Example of Program:
-![GUILTDL Example](/Examples/GUILTDL Example.gif)
+![GUILTDL Example](https://github.com/blimyj/GUILTDL/blob/main/Examples/GUILTDL%20Example.gif)
 
 Results:
-![GUILTDL Editor Results](/Examples/GUILTDL Editor Results.PNG)
-![GUILTDL Results](/Examples/GUILTDL Results.PNG)
+![GUILTDL Editor Results](https://github.com/blimyj/GUILTDL/blob/main/Examples/GUILTDL%20Editor%20Results.PNG)
+![GUILTDL Results](https://github.com/blimyj/GUILTDL/blob/main/Examples/GUILTDL%20Results.PNG)
